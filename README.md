@@ -1,42 +1,31 @@
 Personal Goals
 ==============
 
-Personal goals made open source.
-
-Why? Spending the time to get shit done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
+Based on [Una's personal goal project](https://github.com/una/personal-goals-starter). Thank you Una :)
 
 # Overarching Goals
-1. Contribute to Open Source
-2. Write more blog posts
-3. Use _______ more
-4. Get better at _______
-5. Learn about _______
-6. Be kind
+1. Become a Contributor: Contribute to Open Source
+2. Get better in writing: Write at least 1 technical blog post per quarter
+3. Improve your CSS, Javascript and Ruby skills
+4. Be healthy: Keep up the Yoga and Running
+5. Learn the harmonica
+6. Have fun, take time out for friend and family, go to comedy gigs
 
-# November 00, 2014
+# January 06, 2018
 
-### This Week's Goal: Be Awesome.
+### This Week's Goal: Be Present.
 
 ## Things I'll Do This Week:
-- [x] Play with puppies
-- [ ] Watch 2 videos from my content list about ______
-- [ ] Write a blog post
-- [ ] Continue learning about narwhals
-- [ ] Create slides for my talk about music
-- [ ] Send Una a nice email (una.kravets@gmail.com)
+- [ ] Continue the work on deprecation app
+- [ ] Finish Eloquent Ruby book
 - [x] Read [this blog post](http://una.github.io/personal-goals-guide)
 
-### Things I'll Do This Month: November 2014
-- [ ] Read a book
-- [x] Create a website for my dog
-- [ ] Teach my dog how to fetch me beer
-- [ ] Build a castle out of cardboard
-- [ ] Submit a proposal for a thing
-- [ ] Come up with a new side project
+### Things I'll Do This Month: January 2018
+- [ ] Finish the deprecation app
+- [ ] Research for Javascript module blog post
+- [ ] Start Wes Bos 30 days of javascript course
+- [ ] Read Balint Erdi Rock and Roll with Ember
 
 ### Backlog: Side Projects :)
-- [ ] Work on [my cool project I forgot about](http://google.com)
 
 ### Backlog: Code Things I Want to Do/Play With
-1. Create yeoman generator
-2. Build a robot that takes over the world
