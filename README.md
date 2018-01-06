@@ -13,10 +13,11 @@ Based on [Una's personal goal project](https://github.com/una/personal-goals-sta
 
 # January 06, 2018
 
-### This Week's Goal: Be Present.
+### This Week's Goal: Make progress with the deprecation app.
 
 ## Things I'll Do This Week:
 - [ ] Continue the work on deprecation app
+- [ ] Atom cheat sheet
 - [ ] Finish Eloquent Ruby book
 - [x] Read [this blog post](http://una.github.io/personal-goals-guide)
 
@@ -25,6 +26,8 @@ Based on [Una's personal goal project](https://github.com/una/personal-goals-sta
 - [ ] Research for Javascript module blog post
 - [ ] Start Wes Bos 30 days of javascript course
 - [ ] Read Balint Erdi Rock and Roll with Ember
+- [ ] Typecat course on speed typing
+
 
 ### Backlog: Side Projects :)
 
